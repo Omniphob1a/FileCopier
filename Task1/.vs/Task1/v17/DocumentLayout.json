@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B01A818-F90A-48C6-BB3E-699C32CCDDA5}|Task1\\Task1.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B01A818-F90A-48C6-BB3E-699C32CCDDA5}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B01A818-F90A-48C6-BB3E-699C32CCDDA5}|Task1\\Task1.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\task1\\task1\\task1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2B01A818-F90A-48C6-BB3E-699C32CCDDA5}|Task1\\Task1.csproj|solutionrelative:task1\\task1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B01A818-F90A-48C6-BB3E-699C32CCDDA5}|Task1\\Task1.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\task1\\task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B01A818-F90A-48C6-BB3E-699C32CCDDA5}|Task1\\Task1.csproj|solutionrelative:task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task1",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Task1\\Task1\\Task1.csproj",
+              "RelativeDocumentMoniker": "Task1\\Task1.csproj",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Task1\\Task1\\Task1.csproj",
+              "RelativeToolTip": "Task1\\Task1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T15:44:22.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task1.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Task1\\Task1\\Task1.csproj",
+              "RelativeDocumentMoniker": "Task1\\Task1.csproj",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Task1\\Task1\\Task1.csproj",
+              "RelativeToolTip": "Task1\\Task1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T14:59:08.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Task1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Task1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:05:38.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
